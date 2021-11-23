@@ -1,0 +1,81 @@
+<component name="libraryTable">
+  <library name="javafx">
+    <CLASSES>
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file://$USER_HOME$/javafx-sdk-17/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file://$USER_HOME$/javafx-sdk-17/lib" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file:///usr/share/openjfx/lib" />
+      <root url="file://$USER_HOME$/javafx-sdk-17/lib" />
+    </SOURCES>
+    <jarDirectory url="file:///usr/share/openjfx/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/javafx-sdk-17/lib" recursive="false" />
+    <jarDirectory url="file:///usr/share/openjfx/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/javafx-sdk-17/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
